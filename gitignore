@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+venv/
+local_dir/
+/env/
+.idea/
+ot_Directories/
